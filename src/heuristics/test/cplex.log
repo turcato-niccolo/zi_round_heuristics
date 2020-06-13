@@ -1,0 +1,12 @@
+
+Log started (V12.10.0.0) Wed Mar 11 21:12:05 2020
+
+No problem read.
+
+Selected objective sense:  MINIMIZE
+Selected objective  name:  r_0
+Selected RHS        name:  RHS
+Selected bound      name:  BND
+
+Problem '30_70_45_05_100.mps' read.
+Read time = 0.03 sec. (3.61 ticks)
